@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Collapsing Toolbar Layout</string>
+    <string name="teddy">Teddy</string>
+    <string name="text_1">text_1</string>
+    <string name="text_" />
+    <string name="text_2" />
+    <string name="text_3" />
+    <string name="text_4" />
+    <string name="text_5" />
+    <string name="text_7" />
+    <string name="text_8" />
+    <string name="text_9" />
+    <string name="text2">text2</string>
+    <string name="text3">text3</string>
+    <string name="text4">text4</string>
+    <string name="text5">text5</string>
+    <string name="text6">text6</string>
+    <string name="text7">text7</string>
+    <string name="text9">text9</string>
+</resources>
